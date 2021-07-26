@@ -24,7 +24,11 @@
 
 **(2020TKDE)   An Effificient Destination Prediction Approach  Based on Future Trajectory Prediction and Transition Matrix Optimization**
 
+**(2021TKDE)   Forecasting Gathering Events through Trajectory Destination Prediction: A Dynamic Hybrid Model**
 
+**(2021TKDE)   NEIST: A Neural-Enhanced Index for Spatio-Temporal Queries**
+
+**(2021TKDE) Predicting Destinations by a Deep Learning based Approach**
 
 
 
@@ -36,7 +40,9 @@
 
 **(2020TKDE)   Semi-Supervised Deep Learning Approach for Transportation Mode Identifification Using GPS Trajectory Data**
 
+**(2021TKDE)   Mining Spatio-Temporal Reachable Regions With Multiple Sources over Massive Trajectory Data**
 
+**(2021VLDBJ)   Dragoon: a hybrid and effificient big trajectory management system for offlfline and online analytics**
 
 
 
@@ -49,6 +55,8 @@
 ## Trajectory Recovery
 
 **(2021AAAI)   AttnMove: History Enhanced Trajectory Recovery via Attentional Network**
+
+**(2021TKDE)   Deep Trajectory Recovery with Fine-Grained Calibration using Kalman Filter**
 
 
 
@@ -102,13 +110,23 @@
 
 **(2020TKDE)   Interactive Bike Lane Planning Using Sharing Bikes’ Trajectories**
 
+**(2021TKDE)   Route Recommendations for Intelligent Transportation Services**
+
 
 
 ## Trajectory Compression and Query Processing
 
 **(2020TKDE)   Reference-Based Framework for Spatio-Temporal Trajectory Compression and Query Processing**
 
+**(2021TKDE)   TIPS: Mining Top-K Locations to Minimize User-Inconvenience for Trajectory-Aware Services**
 
+**(2019VLDBJ)   One-pass trajectory simplifification using the synchronous Euclidean distance**
+
+
+
+## SURVEY
+
+**A survey of trajectory distance measures and performance evaluation**
 
 
 
