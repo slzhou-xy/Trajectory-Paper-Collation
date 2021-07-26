@@ -37,8 +37,6 @@
 
 **Mining Spatio-Temporal Reachable Regions With Multiple Sources over Massive Trajectory Data.**
 
-**CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories.**
-
 
 
 ## VLDBJ
