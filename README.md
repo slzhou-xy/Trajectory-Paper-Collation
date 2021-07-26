@@ -173,3 +173,13 @@
 
 **Learning Game-Theoretic Models of Multiagent Trajectories Using Implicit Layers.** 
 
+
+
+## IJICAI
+
+### 2020
+
+**Trajectory Similarity Learning with Auxiliary Supervision and Optimal Matching.**
+
+
+
