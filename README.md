@@ -139,8 +139,6 @@
 
 **TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents.**
 
-**Temporal Planning with Temporal Metric Trajectory Constraints.** 
-
 ### 2020
 
 **Learning to Generate Maps from Trajectories.** 
