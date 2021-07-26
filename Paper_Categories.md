@@ -126,7 +126,7 @@
 
 ## SURVEY
 
-**A survey of trajectory distance measures and performance evaluation**
+**(VLDBJ2020)   A survey of trajectory distance measures and performance evaluation**
 
 
 
